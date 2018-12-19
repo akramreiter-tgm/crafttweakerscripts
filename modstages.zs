@@ -84,3 +84,6 @@ for item in loadedMods["integrationforegoing"].items {
 for item in loadedMods["soot"].items {
 	mods.ItemStages.addItemStage("embers", item);
 }
+for item in loadedMods["animus"].items {
+	mods.ItemStages.addItemStage("blood", item);
+}

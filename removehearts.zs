@@ -1,4 +1,4 @@
 recipes.remove(<betterquesting:extra_life>, false);
-recipes.removeByRecipeName("betterquesting:life_half_0");
-recipes.removeByRecipeName("betterquesting:life_half_1");
-recipes.removeByRecipeName("betterquesting:life_quarter_0");
+recipes.remove(<betterquesting:extra_life:1>, false);
+recipes.remove(<betterquesting:extra_life:2>, false);
+recipes.remove(<aov:blockangelic>, false);
