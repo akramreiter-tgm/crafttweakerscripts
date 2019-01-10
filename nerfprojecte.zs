@@ -1,3 +1,11 @@
+/*
+@script: ProjectE Nerf
+@author: klausruediger
+@desc: Increase EMC costs of energy collectors, energy condensers and tools of mass destruction. the latter includes dark matter tools, red matter tools, destruction catalyst, hyperkinetic lens and catalitic lens.
+*/
+
+//I may or may not completely block out all projecte tools and items per default and selectively add them to certain classes or rewards.
+
 var dmat = <projecte:item.pe_matter:0>;
 var rmat = <projecte:item.pe_matter:1>;
 var dmatb = <projecte:matter_block:0>;
@@ -28,6 +36,7 @@ recipes.addShaped(<projecte:item.pe_destruction_catalyst>,[[aetb,aet,aetb],[aet,
 recipes.addShaped(<projecte:item.pe_hyperkinetic_lens>,[[<minecraft:diamond>,<minecraft:diamond>,<minecraft:diamond>],[dmatb,cataclysm,dmatb],[<minecraft:diamond>,<minecraft:diamond>,<minecraft:diamond>]]);
 recipes.addShaped(<projecte:item.pe_catalitic_lens>,[[dmat,<projecte:item.pe_hyperkinetic_lens>,dmat],[dmat,rmatb,dmat],[dmat,<projecte:item.pe_destruction_catalyst>,dmat]]);
 
+//dark matter tools
 recipes.removeByRecipeName("projecte:item.pe_dm_hammer");
 recipes.removeByRecipeName("projecte:item.pe_dm_hoe");
 recipes.removeByRecipeName("projecte:item.pe_dm_pick");

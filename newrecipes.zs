@@ -1,3 +1,13 @@
+/*
+@script: CustomRecipes
+@author: klausruediger
+@desc: Adds custom workaround recipes for certain items. At the moment, it includes:
+- feather fletching (tconstruct): 
+- wood/iron bolt core (tconstruct)
+- wooden arrow shaft (tconstruct)
+- pink slime (industrialforegoing)
+*/
+
 recipes.addShapeless(<industrialforegoing:pink_slime>,[<minecraft:slime_ball>,<minecraft:dye:9>]);
 mods.thermalexpansion.Transposer.addExtractRecipe(<liquid:if.pink_slime> * 125, <industrialforegoing:pink_slime>, 360);
 val fletch = <tconstruct:fletching>.withTag({Material: "feather"});

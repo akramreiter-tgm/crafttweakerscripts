@@ -1,3 +1,9 @@
+/*
+@script: ModStages
+@author: klausruediger
+@desc: Lists mod ids of all loaded mods and puts dimensions and items from certain mods into specific game stages.
+*/
+
 for mod in loadedMods {
     print(mod.id);
 }

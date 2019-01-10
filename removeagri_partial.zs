@@ -1,3 +1,9 @@
+/*
+@script: RemoveMysticalAgriculture
+@author: klausruediger
+@desc: Removes charms, gear cores, furnaces, tinkering tables and seed reproducers from mysticalagriculture. They are a bit too easy to get and really strong, therefore it's in the best interest of the modpack to block them out entirely.
+*/
+
 recipes.remove(<mysticalagriculture:gear:0>, false);
 recipes.remove(<mysticalagriculture:gear:1>, false);
 recipes.remove(<mysticalagriculture:gear:2>, false);
