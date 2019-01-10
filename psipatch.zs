@@ -51,9 +51,9 @@ recipes.remove(<psi:cad_socket:3>, false);
 recipes.remove(<psi:cad_socket:4>, false);
 recipes.addShaped(<psi:cad_socket:0>,[[<psi:material:0>,<enderio:item_alloy_ingot:0>],[<enderio:item_alloy_ingot:0>,null]]);
 recipes.addShaped(<psi:cad_socket:1>,[[<enderio:item_material:36>,<psi:material:1>],[<psi:material:1>,null]]);
-recipes.addShaped(<psi:cad_socket:1>,[[<enderio:item_material:35>,<psi:material:1>],[<psi:material:1>,null]]);
-recipes.addShaped(<psi:cad_socket:1>,[[<enderio:item_material:36>,<psi:material:1>],[<psi:material:1>,<psi:material:2>]]);
-recipes.addShaped(<psi:cad_socket:1>,[[<enderio:item_material:35>,<psi:material:1>],[<psi:material:1>,<psi:material:2>]]);
+recipes.addShaped(<psi:cad_socket:2>,[[<enderio:item_material:35>,<psi:material:1>],[<psi:material:1>,null]]);
+recipes.addShaped(<psi:cad_socket:3>,[[<enderio:item_material:36>,<psi:material:1>],[<psi:material:1>,<psi:material:2>]]);
+recipes.addShaped(<psi:cad_socket:4>,[[<enderio:item_material:35>,<psi:material:1>],[<psi:material:1>,<psi:material:2>]]);
 
 // makes the industrial machine chassis mandatory for building the CAD assembler and spell programmer. Uses electric steel instead of iron
 recipes.remove(<psi:cad_assembler>, false);
