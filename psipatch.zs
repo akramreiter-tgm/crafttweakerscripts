@@ -17,7 +17,7 @@ recipes.addShaped(<psi:cad_assembly:1>,[[<enderio:item_basic_capacitor:1>,<minec
 recipes.addShaped(<psi:cad_assembly:2>,[[<enderio:item_basic_capacitor:2>,<psi:material:1>,<psi:material:1>],[<psi:material:1>,null,null]]);
 recipes.addShaped(<psi:cad_assembly:3>,[[<enderio:item_basic_capacitor:2>,<psi:material:3>,<psi:material:3>],[<psi:material:3>,null,null]]);
 recipes.addShaped(<psi:cad_assembly:4>,[[<enderio:item_basic_capacitor:2>,<psi:material:4>,<psi:material:4>],[<psi:material:4>,null,null]]);
-recipes.addShaped(<psi:cad_assemly:0>,[[<enderio:item_capacitor_silver>,<minecraft:iron_ingot>,<minecraft:iron_ingot>],[<minecraft:iron_ingot>,null,null]]);
+recipes.addShaped(<psi:cad_assembly:0>,[[<enderio:item_capacitor_silver>,<minecraft:iron_ingot>,<minecraft:iron_ingot>],[<minecraft:iron_ingot>,null,null]]);
 recipes.addShaped(<psi:cad_assembly:1>,[[<enderio:item_capacitor_energetic_silver>,<minecraft:gold_ingot>,<minecraft:gold_ingot>],[<minecraft:gold_ingot>,null,null]]);
 recipes.addShaped(<psi:cad_assembly:2>,[[<enderio:item_capacitor_vivid>,<psi:material:1>,<psi:material:1>],[<psi:material:1>,null,null]]);
 recipes.addShaped(<psi:cad_assembly:3>,[[<enderio:item_capacitor_vivid>,<psi:material:3>,<psi:material:3>],[<psi:material:3>,null,null]]);
