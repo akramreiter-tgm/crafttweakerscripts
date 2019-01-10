@@ -5,7 +5,6 @@ mods.DimensionStages.addDimensionStage("nether", -1);
 mods.DimensionStages.addDimensionStage("endgame", 1);
 mods.DimensionStages.addDimensionStage("aether", 4);
 mods.DimensionStages.addDimensionStage("tforest", 7);
-mods.DimensionStages.addDimensionStage("between", 20);
 for item in loadedMods["enderio"].items {
 	mods.ItemStages.addItemStage("enderio", item);
 }
@@ -68,9 +67,6 @@ for item in loadedMods["thermaldynamics"].items {
 }
 for item in loadedMods["thermalinnovation"].items {
 	mods.ItemStages.addItemStage("thermal", item);
-}
-for item in loadedMods["thebetweenlands"].items {
-	mods.ItemStages.addItemStage("between", item);
 }
 for item in loadedMods["astralsorcery"].items {
 	mods.ItemStages.addItemStage("astral", item);

@@ -23,9 +23,9 @@ recipes.addShaped(<psi:cad_core:4>,[[null,<psi:material:2>,null],[<psi:material:
 recipes.remove(<psi:cad_battery:0>, false);
 recipes.remove(<psi:cad_battery:1>, false);
 recipes.remove(<psi:cad_battery:2>, false);
-recipes.addShaped(<psi:cad_battery:0>,[[<enderio:item_basic_capacitor:0>],[<psi:material:0>],[enderio:item_basic_capacitor:0]]);
-recipes.addShaped(<psi:cad_battery:1>,[[<enderio:item_basic_capacitor:1>],[<psi:material:1>],[enderio:item_basic_capacitor:1]]);
-recipes.addShaped(<psi:cad_battery:2>,[[<enderio:item_basic_capacitor:2>],[<psi:material:2>],[enderio:item_basic_capacitor:2]]);
+recipes.addShaped(<psi:cad_battery:0>,[[<enderio:item_basic_capacitor:0>],[<psi:material:0>],[<enderio:item_basic_capacitor:0>]]);
+recipes.addShaped(<psi:cad_battery:1>,[[<enderio:item_basic_capacitor:1>],[<psi:material:1>],[<enderio:item_basic_capacitor:1>]]);
+recipes.addShaped(<psi:cad_battery:2>,[[<enderio:item_basic_capacitor:2>],[<psi:material:2>],[<enderio:item_basic_capacitor:2>]]);
 
 recipes.remove(<psi:cad_socket:0>, false);
 recipes.remove(<psi:cad_socket:1>, false);
