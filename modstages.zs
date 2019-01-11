@@ -59,9 +59,6 @@ for item in loadedMods["mysticalagriculture"].items {
 for item in loadedMods["mysticalagradditions"].items {
 	mods.ItemStages.addItemStage("agriculture", item);
 }
-for item in loadedMods["roots"].items {
-	mods.ItemStages.addItemStage("roots", item);
-}
 for item in loadedMods["thaumicperiphery"].items {
 	mods.ItemStages.addItemStage("thaum", item);
 }
