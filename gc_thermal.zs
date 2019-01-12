@@ -17,7 +17,7 @@ recipes.remove(<galacticraftcore:aluminum_wire:3>, false);
 recipes.remove(<galacticraftcore:fluid_pipe>, false);
 
 //renames
-<galacticraftcore:fluid_pipe>.displayName = "Glass-Encased Fluiduct";
+<galacticraftcore:fluid_pipe:0>.displayName = "Glass-Encased Fluiduct";
 <galacticraftcore:aluminum_wire:0>.displayName = "Insulated Fluxduct";
 <galacticraftcore:aluminum_wire:1>.displayName = "Insulated Hardened Fluxduct";
 <galacticraftcore:enclosed:1>.displayName = "Sealable Glass-Encased Fluiduct";
