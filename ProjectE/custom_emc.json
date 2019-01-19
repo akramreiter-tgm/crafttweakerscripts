@@ -1,0 +1,2104 @@
+{
+  "entries": [
+    {
+      "item": "enderio:item_material|32",
+      "emc": 864
+    },
+    {
+      "item": "quark:limestone|0",
+      "emc": 8
+    },
+    {
+      "item": "quark:biome_cobblestone|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:mushroom|3",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:gem|4",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|5",
+      "emc": 2048
+    },
+    {
+      "item": "quark:basalt|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:skull|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:bone|0",
+      "emc": 48
+    },
+    {
+      "item": "enderio:item_material|10",
+      "emc": 20
+    },
+    {
+      "item": "thermalfoundation:material|892",
+      "emc": 256
+    },
+    {
+      "item": "quark:tallow|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:blue_berry|0",
+      "emc": 32
+    },
+    {
+      "item": "aether_legacy:aechor_petal|0",
+      "emc": 2
+    },
+    {
+      "item": "aether_legacy:berry_bush_stem|0",
+      "emc": 128
+    },
+    {
+      "item": "biomesoplenty:berries|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:aercloud|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:aether_dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:quicksoil|0",
+      "emc": 55
+    },
+    {
+      "item": "aether_legacy:aercloud|2",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|1",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 256
+    },
+    {
+      "item": "enderio:item_material|62",
+      "emc": 204
+    },
+    {
+      "item": "minecraft:skull|2",
+      "emc": 256
+    },
+    {
+      "item": "geneticsreborn:dnaextractor|0",
+      "emc": 2296
+    },
+    {
+      "item": "geneticsreborn:overclocker|0",
+      "emc": 11712
+    },
+    {
+      "item": "geneticsreborn:dnadecrypter|0",
+      "emc": 3072
+    },
+    {
+      "item": "geneticsreborn:plasmidinfuser|0",
+      "emc": 9820
+    },
+    {
+      "item": "biomesoplenty:dirt|2",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:mudball|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:flower_1|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:dried_sand|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:edible|2",
+      "emc": 32
+    },
+    {
+      "item": "quark:marble|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:pear|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:crafting_table|0",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:stone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:dirt_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:nature_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:wood_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:water_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ice_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:fire_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:dye_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:nether_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:coal_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:iron_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:nether_quartz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:glowstone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:redstone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:obsidian_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:gold_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:lapis_lazuli_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:end_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:diamond_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:zombie_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:emerald_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:pig_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:chicken_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:cow_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:sheep_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:slime_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:skeleton_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:spider_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:creeper_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:rabbit_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:guardian_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:blaze_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ghast_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:enderman_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:silicon_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:sulfur_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:aluminum_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:copper_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:tin_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:bronze_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:brass_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:silver_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:lead_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:steel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:nickel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:constantan_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:electrum_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:invar_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:platinum_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ruby_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:sapphire_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:peridot_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:amber_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:malachite_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|865",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|833",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 24
+    },
+    {
+      "item": "thermalfoundation:material|800",
+      "emc": 8
+    },
+    {
+      "item": "thermalfoundation:material|802",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|816",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|817",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|819",
+      "emc": 58
+    },
+    {
+      "item": "thermalfoundation:material|832",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:blaze_rod|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 48
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 96
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 96
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 96
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 48
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 48
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 48
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 80
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 96
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 92
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 88
+    },
+    {
+      "item": "biomesoplenty:dirt|1",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|1",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|2",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|3",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|4",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|5",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|6",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|8",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:grass|7",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:white_sand|0",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:hard_ice|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:coral|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:coral|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:coral|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:coral|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:coral|4",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:seaweed|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:waterlily|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:waterlily|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:waterlily|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:waterlily|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|4",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|5",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:plant_0|6",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|7",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|8",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|9",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|10",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:plant_0|12",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:plant_0|13",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:plant_0|14",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_0|15",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|4",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:plant_1|3",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:plant_1|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|6",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:plant_1|7",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|8",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|9",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:plant_1|10",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:plant_1|11",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:double_plant|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:double_plant|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:double_plant|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:double_plant|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:mushroom|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mushroom|1",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mushroom|2",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mushroom|4",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mushroom|5",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:bramble_plant|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:flower_0|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|4",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|5",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|6",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|7",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|8",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|9",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|10",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|11",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|12",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|13",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|14",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_0|15",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_1|1",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_1|2",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_1|3",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_1|4",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:flower_1|5",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:ivy|0",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_vine|0",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:ash|0",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:fleshchunk|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:gem|0",
+      "emc": 4096
+    },
+    {
+      "item": "biomesoplenty:gem|3",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|7",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:crystal_shard|0",
+      "emc": 256
+    },
+    {
+      "item": "biomesoplenty:peach|0",
+      "emc": 128
+    },
+    {
+      "item": "biomesoplenty:persimmon|0",
+      "emc": 128
+    },
+    {
+      "item": "biomesoplenty:honeycomb|0",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:filled_honeycomb|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:bowl|0",
+      "emc": 6
+    },
+    {
+      "item": "industrialforegoing:pink_slime|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 256
+    },
+    {
+      "item": "thebetweenlands:skull_mask|0",
+      "emc": 1024
+    },
+    {
+      "item": "industrialforegoing:fertilizer|0",
+      "emc": 4
+    },
+    {
+      "item": "industrialforegoing:dryrubber|0",
+      "emc": 18
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:stone_pressure_plate|0",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:stone_button|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:sign|0",
+      "emc": 17
+    },
+    {
+      "item": "quark:smoker|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:black_ash|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:glowshroom|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:skull|4",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:skull|3",
+      "emc": 256
+    },
+    {
+      "item": "quark:crystal|0",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|2",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|1",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|4",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|3",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|5",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|6",
+      "emc": 128
+    },
+    {
+      "item": "quark:crystal|7",
+      "emc": 128
+    },
+    {
+      "item": "quark:biome_cobblestone|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:glowcelium|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:soul_bead|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:biotite|0",
+      "emc": 128
+    },
+    {
+      "item": "quark:enderdragon_scale|0",
+      "emc": 16384
+    },
+    {
+      "item": "mysticalagradditions:stuff|3",
+      "emc": 16384
+    },
+    {
+      "item": "twilightforest:raw_venison|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:raw_meef|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:maze_wafer|0",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:experiment_115|0",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:hydra_chop|0",
+      "emc": 128
+    },
+    {
+      "item": "quark:witch_hat|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:pirate_hat|0",
+      "emc": 16
+    },
+    {
+      "item": "embers:ancient_motive_core|0",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagradditions:stuff|1",
+      "emc": 256
+    },
+    {
+      "item": "nex:ghast_meat_raw|0",
+      "emc": 64
+    },
+    {
+      "item": "nex:salamander_hide|1",
+      "emc": 128
+    },
+    {
+      "item": "nex:salamander_hide|0",
+      "emc": 128
+    },
+    {
+      "item": "nex:basalt|0",
+      "emc": 16
+    },
+    {
+      "item": "nex:amethyst_crystal|0",
+      "emc": 256
+    },
+    {
+      "item": "nex:rime_crystal|0",
+      "emc": 256
+    },
+    {
+      "item": "nex:spore|0",
+      "emc": 32
+    },
+    {
+      "item": "nex:bone_spider_fang|0",
+      "emc": 32
+    },
+    {
+      "item": "nex:wither_bone|0",
+      "emc": 96
+    },
+    {
+      "item": "nex:frostburn_ice|0",
+      "emc": 4
+    },
+    {
+      "item": "nex:netherrack_path|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|1",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|2",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|3",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|4",
+      "emc": 1
+    },
+    {
+      "item": "nex:tilled_soul_sand|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:hyphae|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:elder_mushroom|0",
+      "emc": 32
+    },
+    {
+      "item": "nex:elder_mushroom|1",
+      "emc": 32
+    },
+    {
+      "item": "nex:thornstalk|0",
+      "emc": 16
+    },
+    {
+      "item": "nex:elder_mushroom_cap|0",
+      "emc": 8
+    },
+    {
+      "item": "nex:elder_mushroom_cap|1",
+      "emc": 8
+    },
+    {
+      "item": "nex:elder_mushroom_stem|0",
+      "emc": 8
+    },
+    {
+      "item": "nex:enoki_mushroom_stem|0",
+      "emc": 8
+    },
+    {
+      "item": "nex:enoki_mushroom_cap|0",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:slime_dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_dirt|1",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_dirt|2",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_dirt|3",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|1",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|2",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|3",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|4",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|5",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|6",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|7",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|8",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|9",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|10",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|11",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|12",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|13",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:slime_grass|14",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:stone_torch|0",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:stone_ladder|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:edible|3",
+      "emc": 32
+    },
+    {
+      "item": "aether_legacy:enchanted_blueberry|0",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:white_apple|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:gummy_swet|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:gummy_swet|1",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:healing_stone|0",
+      "emc": 32
+    },
+    {
+      "item": "tinkersaether:valkyrie_ingot|0",
+      "emc": 1024
+    },
+    {
+      "item": "aether_legacy:zanite_gemstone|0",
+      "emc": 256
+    },
+    {
+      "item": "aether_legacy:swetty_ball|0",
+      "emc": 32
+    },
+    {
+      "item": "aether_legacy:golden_amber|0",
+      "emc": 32
+    },
+    {
+      "item": "aether_legacy:ambrosium_shard|0",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:enchanted_gravitite|0",
+      "emc": 1024
+    },
+    {
+      "item": "aether_legacy:aether_grass|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:enchanted_aether_grass|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:holystone|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:mossy_holystone|0",
+      "emc": 9
+    },
+    {
+      "item": "aether_legacy:aerogel|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:aercloud|1",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|2",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|3",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|0",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|1",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|4",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:dungeon_block|5",
+      "emc": 64
+    },
+    {
+      "item": "aether_legacy:purple_flower|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:white_flower|0",
+      "emc": 16
+    },
+    {
+      "item": "aether_legacy:pillar|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:pillar_top|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:skyroot_bucket|1",
+      "emc": 24
+    },
+    {
+      "item": "aether_legacy:skyroot_bucket|2",
+      "emc": 24
+    },
+    {
+      "item": "aether_legacy:skyroot_bucket|4",
+      "emc": 24
+    },
+    {
+      "item": "aether_legacy:skyroot_bucket|3",
+      "emc": 56
+    },
+    {
+      "item": "aether_legacy:cloud_staff|0",
+      "emc": 1028
+    },
+    {
+      "item": "aether_legacy:swet_cape|0",
+      "emc": 4096
+    },
+    {
+      "item": "aether_legacy:invisibility_cape|0",
+      "emc": 4096
+    },
+    {
+      "item": "aether_legacy:agility_cape|0",
+      "emc": 4096
+    },
+    {
+      "item": "aether_legacy:regeneration_stone|0",
+      "emc": 8192
+    },
+    {
+      "item": "aether_legacy:sentry_boots|0",
+      "emc": 4096
+    },
+    {
+      "item": "embers:ingot_dawnstone|0",
+      "emc": 1088
+    },
+    {
+      "item": "soot:ingot_antimony|0",
+      "emc": 432
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot|0",
+      "emc": 768
+    },
+    {
+      "item": "enderio:item_dark_steel_sword|7",
+      "emc": 708
+    },
+    {
+      "item": "mysticalagriculture:soulstone|1",
+      "emc": 25
+    },
+    {
+      "item": "enderio:item_broken_spawner|0",
+      "emc": 262144
+    },
+    {
+      "item": "enderio:item_material|33",
+      "emc": 256
+    },
+    {
+      "item": "enderio:item_material|74",
+      "emc": 2097
+    },
+    {
+      "item": "minecraft:leather|0",
+      "emc": 64
+    },
+    {
+      "item": "psi:material|0",
+      "emc": 64
+    },
+    {
+      "item": "psi:material|1",
+      "emc": 256
+    },
+    {
+      "item": "psi:material|2",
+      "emc": 8192
+    },
+    {
+      "item": "psi:material|5",
+      "emc": 128
+    },
+    {
+      "item": "psi:material|6",
+      "emc": 256
+    },
+    {
+      "item": "soulshardsrespawn:materials|1",
+      "emc": 1056
+    },
+    {
+      "item": "soulshardsrespawn:materials|2",
+      "emc": 49
+    },
+    {
+      "item": "aether_legacy:dart|2",
+      "emc": 85
+    },
+    {
+      "item": "aether_legacy:dart_shooter|2",
+      "emc": 112
+    },
+    {
+      "item": "ic2:crafting|30",
+      "emc": 2835
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 768
+    },
+    {
+      "item": "galacticraftcore:basic_item|11",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftcore:basic_item|10",
+      "emc": 320
+    },
+    {
+      "item": "galacticraftcore:basic_item|9",
+      "emc": 756
+    },
+    {
+      "item": "galacticraftcore:basic_item|8",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:basic_item|7",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftcore:basic_item|6",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:heavy_plating|0",
+      "emc": 1206
+    },
+    {
+      "item": "enderio:block_fused_quartz|0",
+      "emc": 1024
+    },
+    {
+      "item": "botania:manaresource|8",
+      "emc": 1624
+    },
+    {
+      "item": "botania:dreamwood|0",
+      "emc": 32
+    },
+    {
+      "item": "botania:manaresource|4",
+      "emc": 13365
+    },
+    {
+      "item": "astralsorcery:blockmarble|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarblestairs|0",
+      "emc": 24
+    },
+    {
+      "item": "astralsorcery:blockmarble|1",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|2",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|3",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|4",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|5",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarbleslab|0",
+      "emc": 8
+    },
+    {
+      "item": "astralsorcery:blockmarble|6",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|0",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|1",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|2",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|3",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|4",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|5",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|6",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:naga_scale|0",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:raven_feather|0",
+      "emc": 48
+    },
+    {
+      "item": "twilightforest:liveroot|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:ironwood_raw|0",
+      "emc": 547
+    },
+    {
+      "item": "twilightforest:torchberries|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:fiery_blood|0",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:steeleaf_ingot|0",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:maze_map_focus|0",
+      "emc": 16384
+    },
+    {
+      "item": "twilightforest:transformation_powder|0",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:ore_magnet|0",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:armor_shard|0",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:charm_of_life_1|0",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:charm_of_keeping_1|0",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:armor_shard_cluster|0",
+      "emc": 2304
+    },
+    {
+      "item": "twilightforest:alpha_fur|0",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:arctic_fur|0",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:ice_bomb|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:triple_bow|0",
+      "emc": 32768
+    },
+    {
+      "item": "twilightforest:seeker_bow|0",
+      "emc": 32768
+    },
+    {
+      "item": "twilightforest:ice_bow|0",
+      "emc": 32768
+    },
+    {
+      "item": "twilightforest:ender_bow|0",
+      "emc": 32768
+    },
+    {
+      "item": "twilightforest:borer_essence|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fiery_tears|0",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:root|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:root|1",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:maze_stone|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:firefly|0",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:cicada|0",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_plant|8",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:twilight_plant|5",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:twilight_plant|4",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:twilight_plant|7",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:fire_jet|0",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:fire_jet|3",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:naga_stone|0",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:naga_stone|1",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:moonworm|0",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:aurora_block|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:underbrick|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:thorns|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:burnt_thorns|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:thorns|1",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:giant_cobblestone|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:giant_log|0",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:giant_leaves|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:giant_obsidian|0",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:peacock_fan|0",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:crumble_horn|0",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:magic_beans|0",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:moonworm_queen|0",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:lamp_of_cinders|0",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:thorn_rose|0",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:uberous_soil|0",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:deadrock|2",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:castle_brick|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:twilight_plant|3",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:wispy_cloud|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:fluffy_cloud|0",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:trollsteinn|0",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:castle_rune_brick|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_rune_brick|2",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_rune_brick|1",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_rune_brick|3",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_door|0",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_door|1",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_door|2",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_door|3",
+      "emc": 64
+    },
+    {
+      "item": "mysticalagriculture:wither_skeleton_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:saltpeter_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:blizz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:tanzanite_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:topaz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:blitz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:basalz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:signalum_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:lumium_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 320
+    },
+    {
+      "item": "mysticalagriculture:enderium_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:knightslime_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ardite_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:cobalt_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:manyullyn_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:grains_of_infinity_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:electrical_steel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:redstone_alloy_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:conductive_iron_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:soularium_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:dark_steel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:pulsating_iron_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:energetic_alloy_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:vibrant_alloy_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:end_steel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:mystical_flower_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:manasteel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:elementium_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:terrasteel_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:quicksilver_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:thaumium_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:void_metal_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:dawnstone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:marble_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:limestone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:basalt_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:steeleaf_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:item_basic_moon|0",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftplanets:item_basic_mars|2",
+      "emc": 1024
+    },
+    {
+      "item": "galacticraftplanets:item_basic_asteroids|0",
+      "emc": 2048
+    },
+    {
+      "item": "mysticalagriculture:ironwood_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:knightmetal_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:fiery_ingot_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:meteoric_iron_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:desh_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:aquamarine_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:starmetal_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ender_biotite_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ender_amethyst_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:sky_stone_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:certus_quartz_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:fluix_essence|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:item_basic_moon|1",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftplanets:item_basic_mars|5",
+      "emc": 1024
+    },
+    {
+      "item": "galacticraftplanets:item_basic_asteroids|6",
+      "emc": 4096
+    },
+    {
+      "item": "galacticraftcore:basic_block_moon|3",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftcore:basic_block_moon|4",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftcore:basic_block_moon|5",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftcore:basic_block_moon|14",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftplanets:mars|4",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:mars|5",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:mars|6",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:mars|7",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftcore:cheese_curd|0",
+      "emc": 128
+    },
+    {
+      "item": "galacticraftcore:item_basic_moon|2",
+      "emc": 16384
+    },
+    {
+      "item": "galacticraftplanets:asteroids_block|0",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:asteroids_block|1",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:asteroids_block|2",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:asteroids_block|6",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:dense_ice|0",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftplanets:venus|0",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:venus|1",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:venus|2",
+      "emc": 128
+    },
+    {
+      "item": "galacticraftplanets:web_torch|1",
+      "emc": 384
+    },
+    {
+      "item": "galacticraftplanets:web_torch|0",
+      "emc": 32
+    },
+    {
+      "item": "galacticraftplanets:spout|0",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:venus|5",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftplanets:venus|4",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftplanets:venus|3",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:venus_rock_scorched|0",
+      "emc": 1
+    },
+    {
+      "item": "galacticraftplanets:basic_item_venus|2",
+      "emc": 262144
+    }
+  ]
+}

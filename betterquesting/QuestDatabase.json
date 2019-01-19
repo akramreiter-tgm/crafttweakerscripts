@@ -2005,6 +2005,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "tconstruct:materials",
@@ -2162,7 +2163,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
-          "visibility:8": "NORMAL",
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "embers:ancient_motive_core",
@@ -2831,6 +2832,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "tconstruct:toolforge",
@@ -7352,6 +7354,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "bloodmagic:soul_snare",
@@ -7421,6 +7424,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "thaumcraft:salis_mundus",
@@ -7836,6 +7840,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "thermalexpansion:dynamo",
@@ -11158,7 +11163,9 @@
     },
     "82:10": {
       "questID:3": 82,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        4
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -11166,6 +11173,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "galacticraftcore:rocket_workbench",
@@ -11238,6 +11246,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
@@ -13045,6 +13054,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "mysticalagriculture:crafting",
@@ -13991,6 +14001,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "enderio:item_material",
@@ -16434,96 +16445,6 @@
       }
     },
     "151:10": {
-      "questID:3": 151,
-      "preRequisites:11": [
-        12
-      ],
-      "properties:10": {
-        "betterquesting:10": {
-          "issilent:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "lockedprogress:1": 0,
-          "tasklogic:8": "AND",
-          "repeattime:3": -1,
-          "simultaneous:1": 0,
-          "icon:10": {
-            "ForgeCaps:10": {
-              "astralsorcery:cap_item_amulet_holder:10": {}
-            },
-            "id:8": "industrialforegoing:infinity_drill",
-            "Count:3": 1,
-            "tag:10": {
-              "Energy:4": 0,
-              "Fluid:10": {
-                "FluidName:8": "biofuel",
-                "Amount:3": 0
-              },
-              "Special:1": 0,
-              "Selected:8": "POOR"
-            },
-            "Damage:2": 0,
-            "OreDict:8": ""
-          },
-          "globalshare:1": 0,
-          "questlogic:8": "AND",
-          "partysinglereward:1": 0,
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "autoclaim:1": 0,
-          "ismain:1": 0,
-          "name:8": "INFINITE DRILLING POWER",
-          "desc:8": "§7The Infinity Drill might just be the strongest mining tool out there, but you need to charge it for an eternity until it starts getting useful."
-        }
-      },
-      "tasks:9": {
-        "0:10": {
-          "partialMatch:1": 1,
-          "autoConsume:1": 0,
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "consume:1": 0,
-          "requiredItems:9": {
-            "0:10": {
-              "id:8": "industrialforegoing:infinity_drill",
-              "Count:3": 1,
-              "tag:10": {
-                "Energy:4": 0,
-                "Fluid:10": {
-                  "FluidName:8": "biofuel",
-                  "Amount:3": 0
-                },
-                "Special:1": 0,
-                "Selected:8": "POOR"
-              },
-              "OreDict:8": "",
-              "Damage:3": 0
-            },
-            "1:10": {
-              "id:8": "industrialforegoing:bioreactor",
-              "Count:3": 1,
-              "OreDict:8": "",
-              "Damage:3": 0
-            }
-          },
-          "taskID:8": "bq_standard:retrieval"
-        }
-      },
-      "rewards:9": {
-        "0:10": {
-          "rewardID:8": "bq_standard:item",
-          "index:3": 0,
-          "rewards:9": {
-            "0:10": {
-              "id:8": "betterquesting:extra_life",
-              "Count:3": 10,
-              "OreDict:8": "",
-              "Damage:3": 2
-            }
-          }
-        }
-      }
-    },
-    "152:10": {
       "questID:3": 152,
       "preRequisites:11": [
         12
@@ -16610,7 +16531,7 @@
         }
       }
     },
-    "153:10": {
+    "152:10": {
       "questID:3": 153,
       "preRequisites:11": [
         12
@@ -16679,7 +16600,7 @@
         }
       }
     },
-    "154:10": {
+    "153:10": {
       "questID:3": 154,
       "preRequisites:11": [
         10,
@@ -16743,7 +16664,7 @@
         }
       }
     },
-    "155:10": {
+    "154:10": {
       "questID:3": 155,
       "preRequisites:11": [
         154
@@ -16844,7 +16765,7 @@
         }
       }
     },
-    "156:10": {
+    "155:10": {
       "questID:3": 156,
       "preRequisites:11": [
         12
@@ -16919,7 +16840,7 @@
         }
       }
     },
-    "157:10": {
+    "156:10": {
       "questID:3": 157,
       "preRequisites:11": [
         149
@@ -17065,7 +16986,7 @@
         }
       }
     },
-    "158:10": {
+    "157:10": {
       "questID:3": 158,
       "preRequisites:11": [
         150
@@ -17139,7 +17060,7 @@
         }
       }
     },
-    "159:10": {
+    "158:10": {
       "questID:3": 159,
       "preRequisites:11": [
         158
@@ -17213,7 +17134,7 @@
         }
       }
     },
-    "160:10": {
+    "159:10": {
       "questID:3": 160,
       "preRequisites:11": [
         159
@@ -17287,7 +17208,7 @@
         }
       }
     },
-    "161:10": {
+    "160:10": {
       "questID:3": 161,
       "preRequisites:11": [
         160
@@ -17361,7 +17282,7 @@
         }
       }
     },
-    "162:10": {
+    "161:10": {
       "questID:3": 162,
       "preRequisites:11": [
         67
@@ -17430,7 +17351,7 @@
         }
       }
     },
-    "163:10": {
+    "162:10": {
       "questID:3": 163,
       "preRequisites:11": [
         68
@@ -17505,7 +17426,7 @@
         }
       }
     },
-    "164:10": {
+    "163:10": {
       "questID:3": 164,
       "preRequisites:11": [
         162
@@ -17580,7 +17501,7 @@
         }
       }
     },
-    "165:10": {
+    "164:10": {
       "questID:3": 165,
       "preRequisites:11": [
         164
@@ -17673,7 +17594,7 @@
         }
       }
     },
-    "166:10": {
+    "165:10": {
       "questID:3": 166,
       "preRequisites:11": [
         165
@@ -17751,7 +17672,7 @@
         }
       }
     },
-    "167:10": {
+    "166:10": {
       "questID:3": 167,
       "preRequisites:11": [
         166
@@ -17809,7 +17730,7 @@
         }
       }
     },
-    "168:10": {
+    "167:10": {
       "questID:3": 168,
       "preRequisites:11": [
         166
@@ -17867,7 +17788,7 @@
         }
       }
     },
-    "169:10": {
+    "168:10": {
       "questID:3": 169,
       "preRequisites:11": [
         166
@@ -17925,7 +17846,7 @@
         }
       }
     },
-    "170:10": {
+    "169:10": {
       "questID:3": 170,
       "preRequisites:11": [
         166
@@ -17983,7 +17904,7 @@
         }
       }
     },
-    "171:10": {
+    "170:10": {
       "questID:3": 171,
       "preRequisites:11": [
         167
@@ -18055,7 +17976,7 @@
         }
       }
     },
-    "172:10": {
+    "171:10": {
       "questID:3": 172,
       "preRequisites:11": [
         171
@@ -18121,7 +18042,7 @@
         }
       }
     },
-    "173:10": {
+    "172:10": {
       "questID:3": 173,
       "preRequisites:11": [
         169
@@ -18193,7 +18114,7 @@
         }
       }
     },
-    "174:10": {
+    "173:10": {
       "questID:3": 174,
       "preRequisites:11": [
         173
@@ -18259,7 +18180,7 @@
         }
       }
     },
-    "175:10": {
+    "174:10": {
       "questID:3": 175,
       "preRequisites:11": [
         172
@@ -18322,7 +18243,7 @@
         }
       }
     },
-    "176:10": {
+    "175:10": {
       "questID:3": 176,
       "preRequisites:11": [
         174
@@ -18385,7 +18306,7 @@
         }
       }
     },
-    "177:10": {
+    "176:10": {
       "questID:3": 177,
       "preRequisites:11": [
         170
@@ -18448,7 +18369,7 @@
         }
       }
     },
-    "178:10": {
+    "177:10": {
       "questID:3": 178,
       "preRequisites:11": [
         168
@@ -18511,7 +18432,7 @@
         }
       }
     },
-    "179:10": {
+    "178:10": {
       "questID:3": 179,
       "preRequisites:11": [
         9
@@ -18592,7 +18513,7 @@
         }
       }
     },
-    "180:10": {
+    "179:10": {
       "questID:3": 180,
       "preRequisites:11": [
         9
@@ -18661,7 +18582,7 @@
         }
       }
     },
-    "181:10": {
+    "180:10": {
       "questID:3": 181,
       "preRequisites:11": [
         182
@@ -18724,7 +18645,7 @@
         }
       }
     },
-    "182:10": {
+    "181:10": {
       "questID:3": 182,
       "preRequisites:11": [
         199
@@ -18818,7 +18739,7 @@
         }
       }
     },
-    "183:10": {
+    "182:10": {
       "questID:3": 183,
       "preRequisites:11": [
         182
@@ -18881,7 +18802,7 @@
         }
       }
     },
-    "184:10": {
+    "183:10": {
       "questID:3": 184,
       "preRequisites:11": [
         181
@@ -18982,7 +18903,7 @@
         }
       }
     },
-    "185:10": {
+    "184:10": {
       "questID:3": 185,
       "preRequisites:11": [
         184
@@ -19063,7 +18984,7 @@
         }
       }
     },
-    "186:10": {
+    "185:10": {
       "questID:3": 186,
       "preRequisites:11": [
         185
@@ -19138,7 +19059,7 @@
         }
       }
     },
-    "187:10": {
+    "186:10": {
       "questID:3": 187,
       "preRequisites:11": [
         186
@@ -19201,7 +19122,7 @@
         }
       }
     },
-    "188:10": {
+    "187:10": {
       "questID:3": 188,
       "preRequisites:11": [
         184
@@ -19301,7 +19222,7 @@
         }
       }
     },
-    "189:10": {
+    "188:10": {
       "questID:3": 189,
       "preRequisites:11": [
         183
@@ -19381,7 +19302,7 @@
         }
       }
     },
-    "190:10": {
+    "189:10": {
       "questID:3": 190,
       "preRequisites:11": [
         188
@@ -19444,7 +19365,7 @@
         }
       }
     },
-    "191:10": {
+    "190:10": {
       "questID:3": 191,
       "preRequisites:11": [
         186
@@ -19512,7 +19433,7 @@
         }
       }
     },
-    "192:10": {
+    "191:10": {
       "questID:3": 192,
       "preRequisites:11": [
         181
@@ -19599,7 +19520,7 @@
         }
       }
     },
-    "193:10": {
+    "192:10": {
       "questID:3": 193,
       "preRequisites:11": [
         182
@@ -19667,7 +19588,7 @@
         }
       }
     },
-    "194:10": {
+    "193:10": {
       "questID:3": 194,
       "preRequisites:11": [
         185
@@ -19754,7 +19675,7 @@
         }
       }
     },
-    "195:10": {
+    "194:10": {
       "questID:3": 195,
       "preRequisites:11": [
         186
@@ -19845,7 +19766,7 @@
         }
       }
     },
-    "196:10": {
+    "195:10": {
       "questID:3": 196,
       "preRequisites:11": [
         186
@@ -19911,7 +19832,7 @@
         }
       }
     },
-    "197:10": {
+    "196:10": {
       "questID:3": 197,
       "preRequisites:11": [
         13
@@ -19923,6 +19844,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
@@ -19979,7 +19901,7 @@
         }
       }
     },
-    "198:10": {
+    "197:10": {
       "questID:3": 198,
       "preRequisites:11": [
         197
@@ -20042,7 +19964,7 @@
         }
       }
     },
-    "199:10": {
+    "198:10": {
       "questID:3": 199,
       "preRequisites:11": [
         198
@@ -20090,7 +20012,7 @@
         }
       }
     },
-    "200:10": {
+    "199:10": {
       "questID:3": 200,
       "preRequisites:11": [
         63
@@ -20164,7 +20086,7 @@
         }
       }
     },
-    "201:10": {
+    "200:10": {
       "questID:3": 201,
       "preRequisites:11": [
         200
@@ -20238,7 +20160,7 @@
         }
       }
     },
-    "202:10": {
+    "201:10": {
       "questID:3": 202,
       "preRequisites:11": [
         144,
@@ -20314,7 +20236,7 @@
         }
       }
     },
-    "203:10": {
+    "202:10": {
       "questID:3": 203,
       "preRequisites:11": [
         128
@@ -20394,7 +20316,7 @@
         }
       }
     },
-    "204:10": {
+    "203:10": {
       "questID:3": 204,
       "preRequisites:11": [
         148
@@ -20457,7 +20379,7 @@
         }
       }
     },
-    "205:10": {
+    "204:10": {
       "questID:3": 205,
       "preRequisites:11": [
         181
@@ -20536,7 +20458,7 @@
         }
       }
     },
-    "206:10": {
+    "205:10": {
       "questID:3": 206,
       "preRequisites:11": [
         83
@@ -20611,7 +20533,7 @@
         }
       }
     },
-    "207:10": {
+    "206:10": {
       "questID:3": 207,
       "preRequisites:11": [
         206
@@ -20674,7 +20596,7 @@
         }
       }
     },
-    "208:10": {
+    "207:10": {
       "questID:3": 208,
       "preRequisites:11": [
         206
@@ -20737,7 +20659,7 @@
         }
       }
     },
-    "209:10": {
+    "208:10": {
       "questID:3": 209,
       "preRequisites:11": [
         206
@@ -20803,7 +20725,7 @@
         }
       }
     },
-    "210:10": {
+    "209:10": {
       "questID:3": 210,
       "preRequisites:11": [
         206
@@ -20869,7 +20791,7 @@
         }
       }
     },
-    "211:10": {
+    "210:10": {
       "questID:3": 211,
       "preRequisites:11": [
         209
@@ -20932,7 +20854,7 @@
         }
       }
     },
-    "212:10": {
+    "211:10": {
       "questID:3": 212,
       "preRequisites:11": [
         211
@@ -20995,7 +20917,7 @@
         }
       }
     },
-    "213:10": {
+    "212:10": {
       "questID:3": 213,
       "preRequisites:11": [
         210
@@ -21073,7 +20995,7 @@
         }
       }
     },
-    "214:10": {
+    "213:10": {
       "questID:3": 214,
       "preRequisites:11": [
         210
@@ -21136,7 +21058,7 @@
         }
       }
     },
-    "215:10": {
+    "214:10": {
       "questID:3": 215,
       "preRequisites:11": [
         210
@@ -21227,7 +21149,7 @@
         }
       }
     },
-    "216:10": {
+    "215:10": {
       "questID:3": 216,
       "preRequisites:11": [
         210
@@ -21275,7 +21197,7 @@
         }
       }
     },
-    "217:10": {
+    "216:10": {
       "questID:3": 217,
       "preRequisites:11": [
         216
@@ -21338,7 +21260,7 @@
         }
       }
     },
-    "218:10": {
+    "217:10": {
       "questID:3": 218,
       "preRequisites:11": [
         208
@@ -21426,7 +21348,7 @@
         }
       }
     },
-    "219:10": {
+    "218:10": {
       "questID:3": 219,
       "preRequisites:11": [
         216
@@ -21489,7 +21411,7 @@
         }
       }
     },
-    "220:10": {
+    "219:10": {
       "questID:3": 220,
       "preRequisites:11": [
         216
@@ -21611,7 +21533,7 @@
         }
       }
     },
-    "221:10": {
+    "220:10": {
       "questID:3": 221,
       "preRequisites:11": [
         220
@@ -21703,7 +21625,7 @@
         }
       }
     },
-    "222:10": {
+    "221:10": {
       "questID:3": 222,
       "preRequisites:11": [
         213
@@ -21775,7 +21697,7 @@
         }
       }
     },
-    "223:10": {
+    "222:10": {
       "questID:3": 223,
       "preRequisites:11": [
         216
@@ -21841,7 +21763,7 @@
         }
       }
     },
-    "224:10": {
+    "223:10": {
       "questID:3": 224,
       "preRequisites:11": [
         223
@@ -21892,7 +21814,7 @@
         }
       }
     },
-    "225:10": {
+    "224:10": {
       "questID:3": 225,
       "preRequisites:11": [
         223
@@ -22056,7 +21978,7 @@
         }
       }
     },
-    "226:10": {
+    "225:10": {
       "questID:3": 226,
       "preRequisites:11": [
         224
@@ -22132,7 +22054,7 @@
         }
       }
     },
-    "227:10": {
+    "226:10": {
       "questID:3": 227,
       "preRequisites:11": [
         228
@@ -22200,7 +22122,7 @@
         }
       }
     },
-    "228:10": {
+    "227:10": {
       "questID:3": 228,
       "preRequisites:11": [
         62
@@ -22268,7 +22190,7 @@
         }
       }
     },
-    "229:10": {
+    "228:10": {
       "questID:3": 229,
       "preRequisites:11": [
         62
@@ -22336,7 +22258,7 @@
         }
       }
     },
-    "230:10": {
+    "229:10": {
       "questID:3": 230,
       "preRequisites:11": [
         64
@@ -22399,7 +22321,7 @@
         }
       }
     },
-    "231:10": {
+    "230:10": {
       "questID:3": 231,
       "preRequisites:11": [
         230
@@ -22496,7 +22418,7 @@
         }
       }
     },
-    "232:10": {
+    "231:10": {
       "questID:3": 232,
       "preRequisites:11": [
         64
@@ -22568,7 +22490,7 @@
         }
       }
     },
-    "233:10": {
+    "232:10": {
       "questID:3": 233,
       "preRequisites:11": [
         237
@@ -22640,7 +22562,7 @@
         }
       }
     },
-    "234:10": {
+    "233:10": {
       "questID:3": 234,
       "preRequisites:11": [
         64,
@@ -22725,7 +22647,7 @@
         }
       }
     },
-    "235:10": {
+    "234:10": {
       "questID:3": 235,
       "preRequisites:11": [
         232
@@ -22797,7 +22719,7 @@
         }
       }
     },
-    "236:10": {
+    "235:10": {
       "questID:3": 236,
       "preRequisites:11": [
         235
@@ -22869,7 +22791,7 @@
         }
       }
     },
-    "237:10": {
+    "236:10": {
       "questID:3": 237,
       "preRequisites:11": [
         236
@@ -22941,7 +22863,7 @@
         }
       }
     },
-    "238:10": {
+    "237:10": {
       "questID:3": 238,
       "preRequisites:11": [
         60
@@ -23007,7 +22929,7 @@
         }
       }
     },
-    "239:10": {
+    "238:10": {
       "questID:3": 239,
       "preRequisites:11": [
         236
@@ -23092,7 +23014,7 @@
         }
       }
     },
-    "240:10": {
+    "239:10": {
       "questID:3": 240,
       "preRequisites:11": [
         60
@@ -23155,7 +23077,7 @@
         }
       }
     },
-    "241:10": {
+    "240:10": {
       "questID:3": 241,
       "preRequisites:11": [
         240,
@@ -23229,7 +23151,7 @@
         }
       }
     },
-    "242:10": {
+    "241:10": {
       "questID:3": 242,
       "preRequisites:11": [
         232
@@ -23301,7 +23223,7 @@
         }
       }
     },
-    "243:10": {
+    "242:10": {
       "questID:3": 243,
       "preRequisites:11": [
         235
@@ -23422,7 +23344,7 @@
         }
       }
     },
-    "244:10": {
+    "243:10": {
       "questID:3": 244,
       "preRequisites:11": [
         236
@@ -23553,7 +23475,7 @@
         }
       }
     },
-    "245:10": {
+    "244:10": {
       "questID:3": 245,
       "preRequisites:11": [
         237
@@ -23685,7 +23607,7 @@
         }
       }
     },
-    "246:10": {
+    "245:10": {
       "questID:3": 246,
       "preRequisites:11": [
         62
@@ -23753,7 +23675,7 @@
         }
       }
     },
-    "247:10": {
+    "246:10": {
       "questID:3": 247,
       "preRequisites:11": [
         248
@@ -23816,7 +23738,7 @@
         }
       }
     },
-    "248:10": {
+    "247:10": {
       "questID:3": 248,
       "preRequisites:11": [
         61
@@ -23891,7 +23813,7 @@
         }
       }
     },
-    "249:10": {
+    "248:10": {
       "questID:3": 249,
       "preRequisites:11": [
         247
@@ -23954,7 +23876,7 @@
         }
       }
     },
-    "250:10": {
+    "249:10": {
       "questID:3": 250,
       "preRequisites:11": [
         248
@@ -24023,7 +23945,7 @@
         }
       }
     },
-    "251:10": {
+    "250:10": {
       "questID:3": 251,
       "preRequisites:11": [
         230,
@@ -24087,7 +24009,7 @@
         }
       }
     },
-    "252:10": {
+    "251:10": {
       "questID:3": 252,
       "preRequisites:11": [
         232
@@ -24153,7 +24075,7 @@
         }
       }
     },
-    "253:10": {
+    "252:10": {
       "questID:3": 253,
       "preRequisites:11": [
         228
@@ -24228,7 +24150,7 @@
         }
       }
     },
-    "254:10": {
+    "253:10": {
       "questID:3": 254,
       "preRequisites:11": [
         248
@@ -24294,7 +24216,7 @@
         }
       }
     },
-    "255:10": {
+    "254:10": {
       "questID:3": 255,
       "preRequisites:11": [
         248
@@ -24369,7 +24291,7 @@
         }
       }
     },
-    "256:10": {
+    "255:10": {
       "questID:3": 256,
       "preRequisites:11": [
         254
@@ -24438,7 +24360,7 @@
         }
       }
     },
-    "257:10": {
+    "256:10": {
       "questID:3": 257,
       "preRequisites:11": [
         256
@@ -24504,7 +24426,7 @@
         }
       }
     },
-    "258:10": {
+    "257:10": {
       "questID:3": 258,
       "preRequisites:11": [
         250
@@ -24618,7 +24540,7 @@
         }
       }
     },
-    "259:10": {
+    "258:10": {
       "questID:3": 259,
       "preRequisites:11": [
         255
@@ -24696,7 +24618,7 @@
         }
       }
     },
-    "260:10": {
+    "259:10": {
       "questID:3": 260,
       "preRequisites:11": [
         255
@@ -24834,7 +24756,7 @@
         }
       }
     },
-    "261:10": {
+    "260:10": {
       "questID:3": 261,
       "preRequisites:11": [
         250
@@ -24897,7 +24819,7 @@
         }
       }
     },
-    "262:10": {
+    "261:10": {
       "questID:3": 262,
       "preRequisites:11": [
         261
@@ -24960,7 +24882,7 @@
         }
       }
     },
-    "263:10": {
+    "262:10": {
       "questID:3": 263,
       "preRequisites:11": [
         262
@@ -25043,7 +24965,7 @@
         }
       }
     },
-    "264:10": {
+    "263:10": {
       "questID:3": 264,
       "preRequisites:11": [
         261
@@ -25121,7 +25043,7 @@
         }
       }
     },
-    "265:10": {
+    "264:10": {
       "questID:3": 265,
       "preRequisites:11": [
         261,
@@ -25218,7 +25140,7 @@
         }
       }
     },
-    "266:10": {
+    "265:10": {
       "questID:3": 266,
       "preRequisites:11": [
         248
@@ -25281,7 +25203,7 @@
         }
       }
     },
-    "267:10": {
+    "266:10": {
       "questID:3": 267,
       "preRequisites:11": [
         248
@@ -25347,7 +25269,7 @@
         }
       }
     },
-    "268:10": {
+    "267:10": {
       "questID:3": 268,
       "preRequisites:11": [
         255
@@ -25416,7 +25338,7 @@
         }
       }
     },
-    "269:10": {
+    "268:10": {
       "questID:3": 269,
       "preRequisites:11": [
         255
@@ -25494,7 +25416,7 @@
         }
       }
     },
-    "270:10": {
+    "269:10": {
       "questID:3": 270,
       "preRequisites:11": [
         262
@@ -25560,7 +25482,7 @@
         }
       }
     },
-    "271:10": {
+    "270:10": {
       "questID:3": 271,
       "preRequisites:11": [
         133
@@ -25623,7 +25545,7 @@
         }
       }
     },
-    "272:10": {
+    "271:10": {
       "questID:3": 272,
       "preRequisites:11": [],
       "properties:10": {
@@ -25675,7 +25597,7 @@
       },
       "rewards:9": {}
     },
-    "273:10": {
+    "272:10": {
       "questID:3": 273,
       "preRequisites:11": [
         272
@@ -25687,6 +25609,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "projecte:transmutation_table",
@@ -25738,7 +25661,7 @@
         }
       }
     },
-    "274:10": {
+    "273:10": {
       "questID:3": 274,
       "preRequisites:11": [
         272
@@ -25750,6 +25673,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
@@ -25804,7 +25728,7 @@
         }
       }
     },
-    "275:10": {
+    "274:10": {
       "questID:3": 275,
       "preRequisites:11": [
         272
@@ -25816,6 +25740,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "ForgeCaps:10": {
@@ -25877,7 +25802,7 @@
         }
       }
     },
-    "276:10": {
+    "275:10": {
       "questID:3": 276,
       "preRequisites:11": [
         272
@@ -25889,6 +25814,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "projecte:condenser_mk1",
@@ -25940,7 +25866,7 @@
         }
       }
     },
-    "277:10": {
+    "276:10": {
       "questID:3": 277,
       "preRequisites:11": [
         6,
@@ -25988,6 +25914,371 @@
             "0:10": {
               "id:8": "minecraft:ender_chest",
               "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "277:10": {
+      "questID:3": 278,
+      "preRequisites:11": [
+        112,
+        96,
+        30
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "embers:ingot_dawnstone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Dawnstone Booster Pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "betterquesting:extra_life",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "embers:ingot_dawnstone",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "278:10": {
+      "questID:3": 279,
+      "preRequisites:11": [
+        180,
+        135,
+        134
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "enderio:item_alloy_endergy_ingot",
+            "Count:3": 1,
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Stellar Booster Pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "betterquesting:extra_life",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "enderio:item_alloy_endergy_ingot",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          }
+        }
+      }
+    },
+    "279:10": {
+      "questID:3": 280,
+      "preRequisites:11": [
+        170,
+        168,
+        169,
+        167
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:material",
+            "Count:3": 1,
+            "Damage:2": 128,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Metal Booster Pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "betterquesting:extra_life",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 128
+            },
+            "1:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 129
+            },
+            "2:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 131
+            },
+            "3:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 133
+            },
+            "4:10": {
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 130
+            },
+            "6:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 132
+            }
+          }
+        }
+      }
+    },
+    "280:10": {
+      "questID:3": 281,
+      "preRequisites:11": [
+        196,
+        224
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Elementium Booster Pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "betterquesting:extra_life",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 7
+            }
+          }
+        }
+      }
+    },
+    "281:10": {
+      "questID:3": 282,
+      "preRequisites:11": [
+        263,
+        237
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thaumadditions:adaminite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Arminite Booster Pack",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "betterquesting:extra_life",
+              "Count:3": 60,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "thaumadditions:adaminite_ingot",
+              "Count:3": 2,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -27668,6 +27959,36 @@
           "x:3": -126,
           "y:3": 84,
           "id:3": 276
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": -150,
+          "y:3": 114,
+          "id:3": 278
+        },
+        "10:10": {
+          "size:3": 24,
+          "x:3": -126,
+          "y:3": 114,
+          "id:3": 279
+        },
+        "11:10": {
+          "size:3": 24,
+          "x:3": -102,
+          "y:3": 114,
+          "id:3": 280
+        },
+        "12:10": {
+          "size:3": 24,
+          "x:3": -78,
+          "y:3": 114,
+          "id:3": 281
+        },
+        "13:10": {
+          "size:3": 24,
+          "x:3": -54,
+          "y:3": 114,
+          "id:3": 282
         }
       },
       "lineID:3": 9,
@@ -27689,7 +28010,7 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 1,
+      "editmode:1": 0,
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "pack_version:3": 0,
